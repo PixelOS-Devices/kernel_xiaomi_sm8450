@@ -9923,6 +9923,9 @@ static struct of_device_id fts_of_match_table[] = {
 	{
 		.compatible = "st,spi",
 	},
+	{
+		.compatible = "xiaomi,l12-spi",
+	},
 	{},
 };
 
